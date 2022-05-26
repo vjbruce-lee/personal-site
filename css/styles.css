@@ -24,6 +24,11 @@ p{
   color: #40514E;
   font-weight: bolder;
 }
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+}
 
 .bottom-container{
   background-color: #66BFBF;
