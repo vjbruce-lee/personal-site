@@ -1,0 +1,114 @@
+body {
+
+  text-align: center;
+  line-height: 2;
+  margin: 0;
+}
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 8rem;
+  margin: 4rem auto 0 ;
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+  font-weight: bolder;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 15px;
+  margin-top: 25px;
+}
+
+.chicken{
+  width: 20%;
+  float: right;
+  margin-left: 50px;
+}
+.design{
+  width: 20%;
+  float: left;
+  margin-right: 50px;
+}
+.cloud-top{
+  width: 10%;
+  position: absolute;
+  right: 22%;
+
+}
+
+.cloud-bottom{
+  width: 10%;
+  position: absolute;
+  top: 22%;
+}
+.h2heading{
+  margin: 0;
+}
+.middle-container{
+  margin: auto;
+}
+.mountain{
+  width: 80%;
+}
+.programmar{
+  margin-top: 0;
+}
+.skill-row{
+  width: 50%;
+  margin: 70px auto;
+  text-align: left;
+}
+
+.top-container{
+  background-color: #EAF6F6;
+  padding: 2%;
+  position: relative;
+}
+.vijay{
+  width: 13%;
+  margin: 0;
+}
+.vjbrucelee{
+  color: #EAF6F6;
+}
+.button {
+  background: #5ab9b9;
+  background-image: -webkit-linear-gradient(top, #5ab9b9, #66bfbf);
+  background-image: -moz-linear-gradient(top, #5ab9b9, #66bfbf);
+  background-image: -ms-linear-gradient(top, #5ab9b9, #66bfbf);
+  background-image: -o-linear-gradient(top, #5ab9b9, #66bfbf);
+  background-image: linear-gradient(to bottom, #5ab9b9, #66bfbf);
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 23px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: #5aa4b9;
+  background-image: -webkit-linear-gradient(top, #5aa4b9, #5aa4b9);
+  background-image: -moz-linear-gradient(top, #5aa4b9, #5aa4b9);
+  background-image: -ms-linear-gradient(top, #5aa4b9, #5aa4b9);
+  background-image: -o-linear-gradient(top, #5aa4b9, #5aa4b9);
+  background-image: linear-gradient(to bottom, #5aa4b9, #5aa4b9);
+  text-decoration: none;
+}
+.pro{
+  text-decoration:  underline;
+}
